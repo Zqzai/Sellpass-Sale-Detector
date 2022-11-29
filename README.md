@@ -6,3 +6,5 @@ To set this up, simply run "Sellix API.py" and the instructions will be shown to
 
 # I need help, where do I contact you?
 Contact me on discord: xi#0011
+
+![image](https://user-images.githubusercontent.com/105824641/204630046-bb322a18-faab-49dc-bb3f-499ba05c31fb.png)
